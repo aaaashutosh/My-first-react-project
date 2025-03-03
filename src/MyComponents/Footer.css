@@ -1,0 +1,14 @@
+.footer {
+    background-color: #343a40; /* Equivalent to bg-dark */
+    color: #f8f9fa; /* Equivalent to text-light */
+    padding: 1rem; /* Equivalent to py-3 */
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  .footer p {
+    margin: 0;
+    text-align: center;
+  }
+  
